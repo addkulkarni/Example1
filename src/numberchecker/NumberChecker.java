@@ -20,7 +20,7 @@ public class NumberChecker
 				while(Character.isDigit(s.charAt(j++)))
 				{
 					s1=s1+s.charAt(i);
-					System.out.println("f");
+					//System.out.println("fasdf");
 				}
 				l.add(s1);
 			}
